@@ -1,7 +1,9 @@
-.vs
-.vscode
-/obj/*
-/svg/*
-*.exe
+/.vs
+/.vscode
+/obj/*.o
+/svg/*.svg
+/images/readTest.aip
+/images/copyTest.aip
 /images/randomTest.aip
-/images/image*
+/images/image*.aip
+/*.exe
